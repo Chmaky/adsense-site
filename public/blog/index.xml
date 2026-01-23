@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blogs on Helpful Guides &amp; Resources</title>
+    <link>https://sublum.com/blog/</link>
+    <description>Recent content in Blogs on Helpful Guides &amp; Resources</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="https://sublum.com/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>https://sublum.com/blog/article-2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://sublum.com/blog/article-2/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Best Free Online Tools for Students in 2026</title>
+      <link>https://sublum.com/blog/article-1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://sublum.com/blog/article-1/</guid>
+      <description>&lt;p&gt;Students can save money and time using free tools designed for research, organization, and productivity.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

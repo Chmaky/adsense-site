@@ -1,0 +1,6 @@
+theme = "paper"
+baseURL = "https://sublum.com"
+title = "Helpful Guides & Resources"
+languageCode = "en-us"
+[params]
+description = "High-quality educational guides and tools."
